@@ -23,7 +23,7 @@ Reddit:
   Password: #@)($#@*@(#@#$E@E$#@$@#$^%&
 ```
 
-> The encrypted file is essentially unreadable which is the point. A user won't even be able to access this file so it does not need to be legible. All information can be access from the CLI application.
+> The encrypted file is essentially unreadable which is the point. A user won't even be able to access this file so it does not need to be legible. All information can be accessed from the CLI application.
 
 ## Usage
 1. Launch the app in terminal using `go run passwordManager.go`
