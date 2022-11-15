@@ -16,13 +16,6 @@ Reddit:
   Password: 48!*f2hfdsj%
 ```
 
-**YAML Encrypted Example:**
-```
-Reddit:
-  Username: #@)($#@*@(#@#$E@E$#@$@#$^%&
-  Password: #@)($#@*@(#@#$E@E$#@$@#$^%&
-```
-
 > The encrypted file is essentially unreadable which is the point. A user won't even be able to access this file so it does not need to be legible. All information can be accessed from the CLI application.
 
 ## Usage
